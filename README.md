@@ -21,13 +21,13 @@ In this project we are going to develop the website based on Artificial Intellig
 • The secondary objective is the opportunity, it’s huge! As the retailers become more open to embracing technology to meet consumer needs, as well as improve bottom lines. This technology can prevent losses to a certain point. Also, this technology will prevent internal frauds.
 
 ## Technology and Literature Review
-• The front-end used in our project is HTML, CSS, Bootstrap, Javascript, and in back-end python, flutter, AI, ML, Computer Vision.
+The front-end used in our project is HTML, CSS, Bootstrap, Javascript, and in back-end python, flutter, AI, ML, Computer Vision.
 #### HTML
 HTML an initialize of Hyper Text Markup Language for web pages.
 It provides a means to describe the structure of text based information in document by denoting text as headings, paragraphs, lists and so on and to supplement that text with interactive forms, embedded images and other objects.
 #### Javascript
-JavaScript supports the development of both client and server components of web based applications.
-On the client side, it can be used to write programs that are executed by a web browser within the context of the web page.
+JavaScript supports the development of both client and server components of web based applications.
+On the client side, it can be used to write programs that are executed by a web browser within the context of the web page.
 On the server side, it can be used to write web server programs that can be process information submitted by a web browser and then update the web browser display accordingly.
 #### Computer Vision
 Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects. Artificial Intelligence Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
